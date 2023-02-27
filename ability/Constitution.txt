@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Constitution
+Abbreviation = CON
+Roll = 3 |< 3d6 |< 3d6 + (Baseclass_tough*1) >| 19
+\(END)
+

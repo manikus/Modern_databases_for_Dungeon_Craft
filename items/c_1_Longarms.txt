@@ -1,0 +1,2 @@
+// longarms - reuires Personal Firearms Proficiency test
+//	AK-47, HK G3, HK MP5, Remington 700, Steyr AUG, Uzi, Winchester 94

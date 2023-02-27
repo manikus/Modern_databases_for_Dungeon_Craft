@@ -1,0 +1,2 @@
+// hand guns - reuires Personal Firearms Proficiency test
+//	Beretta 92F, Beretta 92R, Colt Double Eage, Colt M1911, Colt Python, Derringer, Desert Eagle, Glock 17, Glock 20, MAC Ingram M10, Pathfinder, S&W M29, SITES M9, Skorpion, TEC-9, Walther-PPK

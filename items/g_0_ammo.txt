@@ -1,0 +1,2 @@
+// ammo
+//	10-gauge shell, 10mm bullet, 12-gauge shell, 22 caliber bullet, 32 caliber bullet, 357 caliber bullet, 385 caliber bullet, 44 caliber bullet, 444 caliber bullet, 45 caliber bullet, 5.56mm bullet, 50 caliber bullet, 50AE bullet, 7.62mm bullet, 9mm bullet

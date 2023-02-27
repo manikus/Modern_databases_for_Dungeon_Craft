@@ -1,0 +1,10 @@
+// ranged weapons - requires specific Proficiency tests
+Compound Bow (Arhcaic)
+Crossbow (Simple)
+Flamethrower --
+Javelin (Simpl[e)
+Pepper Spray (Simple)
+Shuriken (Archaic(
+Taser (Simple)
+Whip (Simple)
+

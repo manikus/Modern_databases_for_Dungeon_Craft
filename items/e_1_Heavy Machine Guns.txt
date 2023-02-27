@@ -1,0 +1,2 @@
+// Heavy machine guns - reuires Exotic Firearms Proficiency test
+//	M60, M2HB

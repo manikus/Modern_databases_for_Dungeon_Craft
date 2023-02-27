@@ -1,0 +1,9 @@
+\(BEGIN)
+name = IsPraying
+[CharDisplayStatus] = $VAR prm; $VAR exp;
+-prm = $SA_PARAM_GET(); exp = $GET_PARTY_TIME();
+-$IF (prm <# exp) {$RETURN $SA_REMOVE();};
+-$SET_HOOK_PARAM( 7,"Praying"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+\(END)
+

@@ -1,0 +1,2 @@
+// shotguns - reuires Personal Firearms Proficiency test
+//	Beretta M3P, Browning BPS, Mossberg, Sawed-off Shotgun

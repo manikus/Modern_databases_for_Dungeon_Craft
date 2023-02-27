@@ -1,0 +1,10 @@
+\(BEGIN)
+name = Global_Messages
+[EventCombatTreasure] = //$RETURN "";
+[EventCombatWin] = //$RETURN "";
+[EventGiveTreasure] = //$RETURN "";
+[EventGiveTreasureLeft] = //$RETURN "";
+[EventPartyDied] = //$RETURN "";
+\(END)
+// replaces default messages; in the case of combat and treasure may be overridden by event attribute
+

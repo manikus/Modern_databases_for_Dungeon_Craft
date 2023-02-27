@@ -1,0 +1,2 @@
+// NPC and monster races
+//	alien, animal, machine, monster, undead

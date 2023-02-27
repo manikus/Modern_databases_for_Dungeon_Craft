@@ -1,0 +1,37 @@
+\(BEGIN)
+name = 10mm bullet
+id name = 10mm bullet
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = item_Bullet.png,0,8,48,48,1,1,4
+hit sprite = none
+ROF per round = 0.000000
+combat range = 1
+cost = 
+hands to carry = 0
+baseclass = 
+small/medium damage dice = 2D6 + 0
+large damage dice = 2D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 2
+cursed = no
+non lethal = no
+readied location = QUIVER
+bundle quantity = 50
+Special Ability = itemMissileWeapon,bullet
+Special Ability = itemWeaponType,ballistic
+weapon type = ammo
+ammo type = 10mm
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+recharge rate = never
+spell effect = none
+\(END)
+
